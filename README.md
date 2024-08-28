@@ -1,4 +1,4 @@
-# .NET Release Notes
+ok# .NET Release Notes
 
 Welcome to the home of [.NET news](https://github.com/dotnet/core/discussions/categories/news) & [release notes](./release-notes/README.md).
 
